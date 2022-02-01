@@ -1,1 +1,1 @@
-<?php include("./heroku_deploy_index.html") ?>
+<?php include("./index.html") ?>
